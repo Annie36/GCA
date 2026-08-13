@@ -181,19 +181,6 @@ ul {
     line-height: 1.1;
 }
 
-.logo strong {
-    font-size: 0.95rem;
-    font-weight: 800;
-    letter-spacing: 1px;
-    color: var(--text-main);
-}
-
-.logo small {
-    font-size: 0.65rem;
-    font-weight: 600;
-    letter-spacing: 2px;
-    color: var(--gold);
-}
 
 .nav-menu {
     display: flex;
