@@ -162,7 +162,7 @@ ul {
 }
 
 .logo img.logo-img {
-    height: 65px;
+    height: 80px;
     width: auto;
     object-fit: contain;
     flex-shrink: 0;
