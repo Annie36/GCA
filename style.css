@@ -162,12 +162,19 @@ ul {
 }
 
 .logo img.logo-img {
-    height: 42px;
+    height: 65px;
     width: auto;
     object-fit: contain;
     flex-shrink: 0;
 }
 
+.logo-text {
+    font-size: 1.1rem;  
+    font-weight: 800;
+    letter-spacing: 1px;
+    color: var(--text-main);
+    white-space: nowrap;  
+}
 .logo span {
     display: flex;
     flex-direction: column;
